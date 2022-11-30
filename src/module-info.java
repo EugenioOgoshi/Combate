@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author genin
+ *
+ */
+module Combate {
+}
